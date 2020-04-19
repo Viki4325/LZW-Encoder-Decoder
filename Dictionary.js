@@ -1,6 +1,5 @@
 // CLASS: Dictionary
      //
-     // Author: Makadia Viki Suresh, 7870989
      //
      // REMARKS: This class implements the dictionary as a data sturcture using the hash table 
      //
