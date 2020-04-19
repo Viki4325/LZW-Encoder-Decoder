@@ -1,6 +1,6 @@
 // CLASS: HashTable
      //
-     // Author: Makadia Viki Suresh, 7870989
+
      //
      // REMARKS: This class implements the HashTable as a data sturcture that can accept IntHash, stringHash and keyValueHash
      //
