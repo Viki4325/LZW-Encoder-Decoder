@@ -1,6 +1,6 @@
 // CLASS: Encoder
      //
-     // Author: Makadia Viki Suresh, 7870989
+
      //
      // REMARKS: This class implements the Encoder which uses dictionary.
      //
