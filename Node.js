@@ -1,6 +1,6 @@
 // CLASS: Node
      //
-     // Author: Makadia Viki Suresh, 7870989
+
      //
      // REMARKS: This class implements the node and used within LinkedList
      //
