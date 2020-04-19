@@ -1,6 +1,5 @@
 // CLASS: Hashable
      //
-     // Author: Makadia Viki Suresh, 7870989
      //
      // REMARKS: This class implements the Hashable abstract class.Has two abstract methods so that they are enforced in its subclasses
      //
