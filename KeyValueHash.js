@@ -1,6 +1,5 @@
 // CLASS: KeyValueHash
      //
-     // Author: Makadia Viki Suresh, 7870989
      //
      // REMARKS: This class implements the keyValueHash and this is a subclass of Hashable. It is like a pair of a key and a value where the 
      //             key must be of either type IntHash or StringHash 
