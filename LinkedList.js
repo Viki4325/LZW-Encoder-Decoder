@@ -1,6 +1,6 @@
 // CLASS: LinkedList
      //
-     // Author: Makadia Viki Suresh, 7870989
+
      //
      // REMARKS: This class implements the LinekedList and this is the underlying data structure
      //
