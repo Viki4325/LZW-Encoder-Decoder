@@ -1,6 +1,6 @@
 // CLASS: StringHash
      //
-     // Author: Makadia Viki Suresh, 7870989
+
      //
      // REMARKS: This class implements the StringHash and this is a subclass of Hashable
      //
