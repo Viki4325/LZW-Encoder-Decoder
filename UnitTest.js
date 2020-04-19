@@ -1,6 +1,6 @@
 // CLASS: UnitTest
      //
-     // Author: Makadia Viki Suresh, 7870989
+ 
      //
      // REMARKS: This class performs all the unit test for the hashtable data struture
      //
