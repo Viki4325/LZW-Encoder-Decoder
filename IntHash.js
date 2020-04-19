@@ -1,6 +1,5 @@
 // CLASS: IntHash
      //
-     // Author: Makadia Viki Suresh, 7870989
      //
      // REMARKS: This class implements the IntHash and this is a subclass of Hashable
      //
